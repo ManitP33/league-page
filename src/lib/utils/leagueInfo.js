@@ -8,6 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Hello, this is the official website of the Dhamaal Fantasy League!!!</p>
+  <p> This is the 2nd paragraph!</p>
 `;
 
 /*   STEP 3   */
